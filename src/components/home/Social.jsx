@@ -11,11 +11,7 @@ const Social = () => {
         <i class="uil uil-instagram"></i>
       </a>
 
-      <a
-        href="mailto:daniswaraandrias@gmail.com"
-        className="home__social-icon"
-        target="_blank"
-      >
+      <a href="mailto:daniswaraandrias@gmail.com" className="home__social-icon">
         <i class="uil uil-envelope-alt"></i>
       </a>
 
