@@ -47,7 +47,7 @@ const Frontend = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skils__name">Code Igniter</h3>
+              <h3 className="skils__name">CodeIgniter 4</h3>
             </div>
           </div>
 
